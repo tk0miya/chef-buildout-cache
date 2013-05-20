@@ -1,10 +1,10 @@
-# CHANGELOG for chef-buildout-cache
+# CHANGELOG for buildout-cache
 
-This file is used to list changes made in each version of chef-buildout-cache.
+This file is used to list changes made in each version of buildout-cache.
 
 ## 0.1.0:
 
-* Initial release of chef-buildout-cache
+* Initial release of buildout-cache
 
 - - -
 Check the [Markdown Syntax Guide](http://daringfireball.net/projects/markdown/syntax) for help with Markdown.

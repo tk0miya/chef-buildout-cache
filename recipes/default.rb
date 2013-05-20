@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: chef-buildout-cache
+# Cookbook Name:: buildout-cache
 # Recipe:: default
 #
 # Copyright 2013, Takeshi KOMIYA

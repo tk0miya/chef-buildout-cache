@@ -1,5 +1,5 @@
-chef-buildout-cache Cookbook
-============================
+buildout-cache Cookbook
+=======================
 TODO: Enter the cookbook description here.
 
 e.g.
@@ -11,14 +11,14 @@ TODO: List your cookbook requirements. Be sure to include any requirements this 
 
 e.g.
 #### packages
-- `toaster` - chef-buildout-cache needs toaster to brown your bagel.
+- `toaster` - buildout-cache needs toaster to brown your bagel.
 
 Attributes
 ----------
 TODO: List you cookbook attributes here.
 
 e.g.
-#### chef-buildout-cache::default
+#### buildout-cache::default
 <table>
   <tr>
     <th>Key</th>
@@ -27,7 +27,7 @@ e.g.
     <th>Default</th>
   </tr>
   <tr>
-    <td><tt>['chef-buildout-cache']['bacon']</tt></td>
+    <td><tt>['buildout-cache']['bacon']</tt></td>
     <td>Boolean</td>
     <td>whether to include bacon</td>
     <td><tt>true</tt></td>
@@ -36,17 +36,17 @@ e.g.
 
 Usage
 -----
-#### chef-buildout-cache::default
+#### buildout-cache::default
 TODO: Write usage instructions for each cookbook.
 
 e.g.
-Just include `chef-buildout-cache` in your node's `run_list`:
+Just include `buildout-cache` in your node's `run_list`:
 
 ```json
 {
   "name":"my_node",
   "run_list": [
-    "recipe[chef-buildout-cache]"
+    "recipe[buildout-cache]"
   ]
 }
 ```
